@@ -6,7 +6,8 @@ A fully functional website
 </p>
 </h1>
 
-><h1><p align="center">
+>
+<h1><p align="center">
 Home Page Screenshot
 </p>
 </h1>
