@@ -1,3 +1,4 @@
-# Blog-Website
+# Hosted Url
 
-## for index.html , style.css and main.js follow up with the video
+ link :- https://mango-meadow-0b9b36610.1.azurestaticapps.net
+## A fully functional website
