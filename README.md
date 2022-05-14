@@ -5,5 +5,6 @@
 A fully functional website
 </p>
 </h1>
-![image](https://user-images.githubusercontent.com/85401407/168433820-c5772429-e4fd-416e-b6ed-9026e4786f79.png)
+
+![image](https://user-images.githubusercontent.com/85401407/168434535-5bfb33cf-12ff-43d6-b4f9-5ffd1e068923.png)
 
