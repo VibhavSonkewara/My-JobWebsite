@@ -7,7 +7,7 @@ A fully functional website
 </h1>
 
 <p align="center"><a href="https://mango-meadow-0b9b36610.1.azurestaticapps.net/">Live Preview</a></p>
->
+
 <h1><p align="center">
 Home Page Screenshot
 </p>
